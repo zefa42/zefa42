@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm 김영오</h1>
 
 
-# 🔭 프로젝트 Repo
-- https://github.com/zefa42/pr
+# 🔭 Portfolio
+- **[프로젝트 목록]()**
 
   <br>
 
